@@ -64,3 +64,10 @@ Complete the function to return true if the two arguments given are anagrams of 
   return true;
 };
 ```
+
+## Experience:
+
+- Robotics Lab internship (01.15.2019 - 11.23.2019)
+- Anor system, Toshkent city - MERN stack web developer (02.04.2021-07.29.2021)
+- PA group - React js remote web developer (08.03.2021 - 11.29.2021)
+- Everbest It Academy, Front-end web programming mentor (01.11.2022 - now)
